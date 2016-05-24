@@ -1,0 +1,45 @@
+[submodule "singapore_cs_stream"]
+	path = singapore_cs_stream
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_stream.git
+[submodule "singapore_cs_road"]
+	path = singapore_cs_road
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_road.git
+[submodule "singapore_cs_landmass"]
+	path = singapore_cs_landmass
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_landmass.git
+[submodule "singapore_cs_bog"]
+	path = singapore_cs_bog
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_bog.git
+[submodule "singapore_cs_deciduousforest"]
+	path = singapore_cs_deciduousforest
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_deciduousforest.git
+[submodule "singapore_cs_drycrop"]
+	path = singapore_cs_drycrop
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_drycrop.git
+[submodule "singapore_cs_evergreenforest"]
+	path = singapore_cs_evergreenforest
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_evergreenforest.git
+[submodule "singapore_cs_grassland"]
+	path = singapore_cs_grassland
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_grassland.git
+[submodule "singapore_cs_irrcrop"]
+	path = singapore_cs_irrcrop
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_irrcrop.git
+[submodule "singapore_cs_mixedcrop"]
+	path = singapore_cs_mixedcrop
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_mixedcrop.git
+[submodule "singapore_cs_mixedforest"]
+	path = singapore_cs_mixedforest
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_mixedforest.git
+[submodule "singapore_cs_industrial"]
+	path = singapore_cs_industrial
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_industrial.git
+[submodule "singapore_cs_urban"]
+	path = singapore_cs_urban
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_urban.git
+[submodule "singapore_cs_suburban"]
+	path = singapore_cs_suburban
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_suburban.git
+[submodule "singapore_cs_scrub"]
+	path = singapore_cs_scrub
+	url = https://github.com/FGMEMBERS-TERRAGIT/singapore_cs_scrub.git
